@@ -1,6 +1,4 @@
 /.vscode
-constants.py
-
 
 # Pygame build process: config.py setup.py
 /Setup
@@ -47,3 +45,4 @@ dist
 *.so
 __pycache__
 _headers/*
+src/domain/utils/constants.py
