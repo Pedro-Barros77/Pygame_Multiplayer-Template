@@ -1,4 +1,5 @@
 /.vscode
+constants.py
 
 
 # Pygame build process: config.py setup.py
